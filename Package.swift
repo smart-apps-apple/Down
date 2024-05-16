@@ -36,6 +36,7 @@ let package = Package(
           resources: [
             .copy("Resources/DownView.bundle"),
             .copy("Resources/DownView (macOS).bundle"),
+            .process("PrivacyInfo.xcprivacy")
           ]
         ),
         .testTarget(
