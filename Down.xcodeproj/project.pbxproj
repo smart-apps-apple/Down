@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 52;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -210,6 +210,7 @@
 		90A40A981EC0309A004F2E91 /* Deployment-Targets.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Deployment-Targets.xcconfig"; sourceTree = "<group>"; };
 		90A40A991EC0309A004F2E91 /* Universal-Framework-Target.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Universal-Framework-Target.xcconfig"; sourceTree = "<group>"; };
 		90A40A9A1EC0309A004F2E91 /* Universal-Target-Base.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Universal-Target-Base.xcconfig"; sourceTree = "<group>"; };
+		A2D3D26A2BF6718200EE64DF /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		D41689B21CFFE28200E5802B /* DownViewTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DownViewTests.swift; sourceTree = "<group>"; };
 		D41689B51CFFE6BB00E5802B /* DownView.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = DownView.bundle; sourceTree = "<group>"; };
 		D4201EC51CFA59A5008EEC6E /* BindingTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BindingTests.swift; sourceTree = "<group>"; };
@@ -641,6 +642,7 @@
 				D43AE5C81CFFAE39006E1522 /* Extensions */,
 				D44875E21CFA6B120037A624 /* Renderers */,
 				D43AE5CB1CFFD068006E1522 /* Views */,
+				A2D3D26A2BF6718200EE64DF /* PrivacyInfo.xcprivacy */,
 			);
 			path = Down;
 			sourceTree = "<group>";
